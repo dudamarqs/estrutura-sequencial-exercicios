@@ -1,0 +1,2 @@
+### Estrtura Sequencial - Atividade
+Este repositório armazena as atividades propostas pelo professor da faculdade na matéria de Programação Orientada a Objetos. A atividade consiste numa lista de 6 exercícios que visam desenvolver nossa sintaxe na linguagem de programação Java.

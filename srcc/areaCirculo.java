@@ -1,4 +1,4 @@
-package src;
+package srcc;
 import javax.swing.JOptionPane;
 
 public class areaCirculo {
